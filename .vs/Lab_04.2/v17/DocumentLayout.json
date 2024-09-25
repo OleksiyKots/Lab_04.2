@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DellAs\\source\\repos\\Lab_04.2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2DAC45A3-83F4-4E46-A639-1C470AAAF2BC}|Lab_04.2.vcxproj|C:\\Users\\DellAs\\source\\repos\\Lab_04.2\\Lab_04.2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2DAC45A3-83F4-4E46-A639-1C470AAAF2BC}|Lab_04.2.vcxproj|solutionrelative:Lab_04.2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Lab_04.2.cpp",
+              "DocumentMoniker": "C:\\Users\\DellAs\\source\\repos\\Lab_04.2\\Lab_04.2.cpp",
+              "RelativeDocumentMoniker": "Lab_04.2.cpp",
+              "ToolTip": "C:\\Users\\DellAs\\source\\repos\\Lab_04.2\\Lab_04.2.cpp",
+              "RelativeToolTip": "Lab_04.2.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-24T16:39:04.263Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
